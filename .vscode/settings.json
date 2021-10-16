@@ -1,0 +1,10 @@
+{
+  "search.exclude": {
+    "*/**/node_modules/": true,
+    ".expo": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.sortJSON": false
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+}
